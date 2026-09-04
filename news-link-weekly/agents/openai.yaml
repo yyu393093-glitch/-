@@ -1,0 +1,4 @@
+interface:
+  display_name: "新闻周报链接整理"
+  short_description: "读取新闻链接并按专属SOP生成中文AI日报与周报条目"
+  default_prompt: "Use $news-link-weekly to read these links and produce a document-ready Chinese AI daily or weekly report."
